@@ -10,6 +10,7 @@
     - 🔗 linkedin: https://www.linkedin.com/in/atmanetaoussi/
 
 ### Feel free to check some of my personal projects: 😍
+  - <a href="https://github.com/atidevs/livewords">Livewords (2022 - Android app)</a>
   - <a href="https://github.com/atidevs/pokis">Pokis (2019 - Android app)</a>
   - <a href="https://github.com/atidevs/Tealer-Notes">Tealer Notes (2018 - Android app)</a>
   - <a href="https://github.com/atidevs/perishop">Perishop (2018 - Web app)</a>
