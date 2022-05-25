@@ -15,6 +15,10 @@
   - <a href="https://github.com/atidevs/Tealer-Notes">Tealer Notes (2018 - Android app)</a>
   - <a href="https://github.com/atidevs/perishop">Perishop (2018 - Web app)</a>
 
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atidevs&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
