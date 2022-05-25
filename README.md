@@ -7,7 +7,6 @@
 - I have over 4 years of professional experience developing, maintaining and enhancing android apps. 
 - How to reach me: 
     - 📫 email: atmane.taoussi@gmail.com
-    - 📱 phone: +212 673 055 242
     - 🔗 linkedin: https://www.linkedin.com/in/atmanetaoussi/
 
 ### Feel free to check some of my personal projects: 😍
