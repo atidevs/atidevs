@@ -1,4 +1,4 @@
-![g2290](https://user-images.githubusercontent.com/42352387/170252521-159656e7-e53a-4f1e-af5e-f40418d4f235.png)
+![g37298](https://user-images.githubusercontent.com/42352387/171279605-f5f87b75-2789-4b2b-b147-ce3084822682.png)
 
 ### Hi there 👋
 
