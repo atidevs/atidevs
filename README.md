@@ -7,8 +7,9 @@
 - I have been involved in developing, maintaining and enhancing android apps during my professional career of over 4 years. 
 - I worked on many innovative and user driven product apps: marketplace (B2B & B2C), energy (fuel), cost and freight (cargo)...  
 - How to reach me: 
-    - 📫 email: atmane.taoussi@gmail.com
-    - 🔗 linkedin: https://www.linkedin.com/in/atmanetaoussi/
+
+<a href="https://www.linkedin.com/in/atmanetaoussi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+<a href="mailto:atmane.taoussi@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.instagram.com/atmanetaoussi/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 ### Feel free to check some of my personal projects: 😍
   - <a href="https://github.com/atidevs/livewords">Livewords (2022 - Android app)</a>
