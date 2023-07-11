@@ -9,7 +9,7 @@
 ### How to reach me: 🔗
 
 <a href="https://www.linkedin.com/in/atmanetaoussi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.credly.com/users/atmane-taoussi/badges">![Credly](https://img.shields.io/badge/Certifications-white?style=for-the-badge&logo=credly&logoColor=black)</a>
+<a href="https://www.credly.com/users/atmanetaoussi/badges">![Credly](https://img.shields.io/badge/Certifications-white?style=for-the-badge&logo=credly&logoColor=black)</a>
 <a href="https://www.scrum.org/user/571133">![Scrum](https://img.shields.io/badge/Scrum%20Profile-darkgreen?style=for-the-badge)</a>
 <a href="https://www.instagram.com/atmanetaoussi/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
