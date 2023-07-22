@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- I am Atmane, AWS cloud engineer to be, certified PSM1, PSPO1 and senior software engineer currently working at IBM.
-- I have been involved in developing, maintaining and enhancing android apps during my professional career of over 5.5 years. 
+- I am Atmane, AWS cloud engineer to be, certified PSM1, PSPO1 and senior android engineer currently working at IBM.
+- I have been involved in developing, maintaining and enhancing android apps during my professional career of over 5 years. 
 - I worked on many innovative and user driven product apps: marketplace (B2B & B2C), energy (fuel), cost and freight (cargo)...  
 
 ### How to reach me: 🔗
