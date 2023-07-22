@@ -1,4 +1,4 @@
-![g37298](https://user-images.githubusercontent.com/42352387/171279605-f5f87b75-2789-4b2b-b147-ce3084822682.png)
+![github_banner](https://github.com/atidevs/atidevs/assets/42352387/260393b1-f301-42a0-ab15-e7c3048380e7)
 
 ### Hi there 👋
 
