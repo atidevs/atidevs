@@ -2,16 +2,19 @@
 
 ### Hi there 👋
 
-- I am Atmane, AWS certified cloud practitioner, certified PSM1, PSPO1 and senior android engineer currently working at IBM.
-- I have been involved in developing, maintaining and enhancing android apps during my professional career of over 5 years. 
-- I worked on many innovative and user driven product apps: marketplace (B2B & B2C), energy (fuel), cost and freight (cargo)...  
+- I am Atmane, AWS certified cloud practitioner, certified PSM1, PSPO1 and senior android engineer.
+- I have been involved in developing, maintaining and enhancing android apps during my professional career of over 6 years. 
+- I worked on many innovative and user driven product apps: marketplace (B2B & B2C), energy (fuel), cost and freight (cargo)...
 
 ### How to reach me: 🔗
 
-<a href="https://www.linkedin.com/in/atmanetaoussi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/atmanetaoussi/">![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.credly.com/users/atmanetaoussi/badges">![Credly](https://img.shields.io/badge/Certifications-white?style=for-the-badge&logo=credly&logoColor=black)</a>
-<a href="https://www.scrum.org/user/571133">![Scrum](https://img.shields.io/badge/Scrum%20Profile-darkgreen?style=for-the-badge)</a>
+<a href="https://www.scrum.org/user/571133">![Scrum](https://img.shields.io/badge/Scrum%20Profile-darkgreen?style=for-the-badge&logo=gitbook&logoColor=white)</a>
 <a href="https://www.instagram.com/atmanetaoussi/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://learn.microsoft.com/en-us/users/atmanetaoussi/">![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-%230077B5.svg?style=for-the-badge&logo=icloud&logoColor=white)</a>
+
+
 
 ### Feel free to check some of my personal projects: 😍
   - <a href="https://github.com/atidevs/composing">Composing (2023 - Hands-on Jetpack Compose)</a>
