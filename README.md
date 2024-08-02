@@ -11,7 +11,6 @@
 <a href="https://www.linkedin.com/in/atmanetaoussi/">![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.credly.com/users/atmanetaoussi/badges">![Credly](https://img.shields.io/badge/Certifications-white?style=for-the-badge&logo=credly&logoColor=black)</a>
 <a href="https://www.scrum.org/user/571133">![Scrum](https://img.shields.io/badge/Scrum%20Profile-darkgreen?style=for-the-badge&logo=gitbook&logoColor=white)</a>
-<a href="https://www.instagram.com/atmanetaoussi/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://learn.microsoft.com/en-us/users/atmanetaoussi/">![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-%230077B5.svg?style=for-the-badge&logo=icloud&logoColor=white)</a>
 
 
