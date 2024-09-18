@@ -16,6 +16,7 @@
 
 
 ### Feel free to check some of my personal projects: 😍
+  - <a href="https://github.com/atidevs/housn">Housn (2024 - Frontend web app using Angular v18)</a>
   - <a href="https://github.com/atidevs/composing">Composing (2023 - Hands-on Jetpack Compose)</a>
   - <a href="https://github.com/atidevs/livewords">Livewords (2022 - Android app: live text translation using ML Kit and CameraX)</a>
   - <a href="https://github.com/atidevs/pokis">Pokis (2019 - Android app: dynamic loading and display of Pokemons)</a>
