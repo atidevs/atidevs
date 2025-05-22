@@ -2,9 +2,8 @@
 
 ### Hi there 👋
 
-- I am Atmane, AWS certified cloud practitioner, certified PSM1, PSPO1 and software engineer.
-- I have been involved in developing, maintaining and enhancing android apps during my professional career of over 5 years. 
-- I worked on many innovative and user driven product apps: marketplace (B2B & B2C), energy (fuel), cost and freight (cargo)...
+- I am Atmane, certified PSM1, PSPO1, AWS cloud practitioner and business analyst.
+- I have been involved in developing, maintaining and enhancing many innovative products: marketplace (B2B & B2C), energy (fuel), banking...
 
 ### How to reach me: 🔗
 
@@ -16,31 +15,11 @@
 
 
 ### Feel free to check some of my personal projects: 😍
-  - <a href="https://github.com/atidevs/housn">Housn (2024 - Frontend web app using Angular v18)</a>
-  - <a href="https://github.com/atidevs/composing">Composing (2023 - Hands-on Jetpack Compose)</a>
-  - <a href="https://github.com/atidevs/livewords">Livewords (2022 - Android app: live text translation using ML Kit and CameraX)</a>
-  - <a href="https://github.com/atidevs/pokis">Pokis (2019 - Android app: dynamic loading and display of Pokemons)</a>
-  - <a href="https://github.com/atidevs/Tealer-Notes">Tealer Notes (2018 - Android app: note taking app)</a>
-  - <a href="https://github.com/atidevs/perishop">Perishop (2018 - Web app: display nearby shops depending on user location)</a>
+  - <a href="https://github.com/atidevs/livewords">Livewords (Android app: live text translation using ML Kit and CameraX)</a>
+  - <a href="https://github.com/atidevs/pokis">Pokis (Android app: dynamic loading and display of Pokemons)</a>
+  - <a href="https://github.com/atidevs/Tealer-Notes">Tealer Notes (Android app: note taking app)</a>
+  - <a href="https://github.com/atidevs/perishop">Perishop (Web app: display nearby shops depending on user location)</a>
 
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atidevs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<!--
-**atidevs/atidevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
