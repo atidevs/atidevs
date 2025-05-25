@@ -2,8 +2,9 @@
 
 ### Hi there 👋
 
-- I am Atmane, certified PSM1, PSPO1, AWS cloud practitioner and business analyst.
-- I have been involved in developing, maintaining and enhancing many innovative products: marketplace (B2B & B2C), energy (fuel), banking...
+- I am Atmane, certified PSM1, PSPO1, AWS cloud practitioner and a senior Business Analyst.
+- I have been involved in developing, maintaining and enhancing digital products: marketplace (B2B & B2C), energy (fuel), airline, banking.
+- I have been also a bridge between Stakeholders and IT teams in bringing many innovative projects to users hands. 
 
 ### How to reach me: 🔗
 
