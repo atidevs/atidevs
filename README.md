@@ -13,14 +13,6 @@
 <a href="https://www.scrum.org/user/571133">![Scrum](https://img.shields.io/badge/Scrum%20Profile-darkgreen?style=for-the-badge&logo=gitbook&logoColor=white)</a>
 <a href="https://learn.microsoft.com/en-us/users/atmanetaoussi/">![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-%230077B5.svg?style=for-the-badge&logo=icloud&logoColor=white)</a>
 
-
-
-### Feel free to check some of my personal projects: 😍
-  - <a href="https://github.com/atidevs/livewords">Livewords (Android app: live text translation using ML Kit and CameraX)</a>
-  - <a href="https://github.com/atidevs/pokis">Pokis (Android app: dynamic loading and display of Pokemons)</a>
-  - <a href="https://github.com/atidevs/Tealer-Notes">Tealer Notes (Android app: note taking app)</a>
-  - <a href="https://github.com/atidevs/perishop">Perishop (Web app: display nearby shops depending on user location)</a>
-
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atidevs&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
